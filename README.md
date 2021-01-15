@@ -1,8 +1,8 @@
 # 2048 - Grpo Exam Sebastian Whtiehead
-created by: Sebastian Whitehead
-class: MED 1. Semester 2020
-Studie nr: 20204568
-Date: 7/12/2020
+- created by: Sebastian Whitehead
+- class: MED 1. Semester 2020
+- Studie nr: 20204568
+- Date: 7/12/2020
 
 
 ### Danish
