@@ -1,20 +1,23 @@
-# Aurora
-Visit the [website](http://www.aurorabuilder.com "Aurora Website") for more information about the Aurora character builder and check out the [support page](http://www.aurorabuilder.com/support "Aurora Support Page") if you have any questions.<br> You can support the project by making a [donation](https://aurorabuilder.com/donate/).
- - Note this is a copy of the original gitHub repository and therefore does not qualify for support from the creators
+# 2048 - Grpo Exam Sebastian Whtiehead
+created by: Sebastian Whitehead
+class: MED 1. Semester 2020
+Studie nr: 20204568
+Date: 7/12/2020
 
-### Extending Content
-Go to the _Additional Content_ tab in Aurora, enter the URL of the index file, and have Aurora download the content to the custom folder for you. When these files get updated, Aurora will be able to keep content files up to date automatically.
-<br>
-More information about extending the content can be found [here](http://aurorabuilder.com/content/ "Additional Content").
 
-- https://raw.githubusercontent.com/Sebastian-Whitehead/auroraDndContent/main/core.index **(required)**
-- https://raw.githubusercontent.com/Sebastian-Whitehead/auroraDndContent/main/supplements.index
-- https://raw.githubusercontent.com/Sebastian-Whitehead/auroraDndContent/main/unearthed-arcana.index
-- https://raw.githubusercontent.com/Sebastian-Whitehead/auroraDndContent/main/third-party.index
+### Danish
+Denne kopi af det kendte 2048 spil var lavet til at være så funktionelt
+tæt på det opbrindelig spil som muligt, men lavet med egen kode. Programmet har 5 inputs; 
+piltasterne og r. Piltasterne afgører spillet styring og får 'fliserne' til bevæge sig i den 
+tilhørende retning. 'R' knappen fungerer som et reset og på samme tid kompenserer for spillets 
+manglende 'gameover' skærm som vil automatisk nulstille spillet.
 
-### Community Driven Content
-A collection of community driven content can be found [here](http://aurorabuilder.com/content/#community "Community Driven Content") which includes some homebrew content posted on reddit and dnd wiki.
+### English
+This version of the well know game 2048 was made to be as functionally close to the original
+as possible while being built from the ground up with self written code. The program utilises 5
+input keys. The arrow keys and the 'r' button. The arrow keys are used to move all the board
+tiles in the given direction. While the 'r' button is used to reset the game and score and in
+current version this makes up for the lack of 'gameover' screen that would automatically reset
+the game.
 
-- [Reddit](https://aurorabuilder.com/posts/891/community-driven-content-reddit/ "Reddit")
-- [D&D Wiki](https://aurorabuilder.com/posts/943/community-driven-contentdnd-wiki/ "D&D Wiki")
 
